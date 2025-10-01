@@ -83,7 +83,7 @@ WHERE NOT (f.valor_venda <= d.valor_sugerido AND f.valor_venda >= d.valor_sugeri
 
 O projeto utiliza uma estratégia de branches no Git para gerenciar os ambientes de desenvolvimento e produção.
 
-  - **Desenvolvimento (`branch dev`)**: Ambiente de trabalho dos desenvolvedores.
+  - **Desenvolvimento (`Marceloilh-patch-1`)**: Ambiente de trabalho dos desenvolvedores.
   - **Produção (`branch main`)**: Versão estável do código. O deploy em produção é executado a partir desta branch.
 
 Os **Jobs de Deploy** podem ser configurados para rodar de forma agendada (ex: diariamente) ou sob demanda.
