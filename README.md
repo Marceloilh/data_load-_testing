@@ -118,6 +118,6 @@ Este projeto fornece os dados necessários para as seguintes análises estratég
   - Vendas ao Longo do Tempo (Temporal)
 <br>
 
-## Análises Geradas -> Vendas por Concessionária
+## Análises Geradas -> Vendas por Concessionária   [![Ver Relatório Interativo](https://img.shields.io/badge/Ver%20Relatório-Interativo-blue?style=for-the-badge&logo=looker)](https://lookerstudio.google.com/s/rusvkcstiRU)
 
 ![Vendas por Concessionária do Looker Studio](./imagens/dash.png)
