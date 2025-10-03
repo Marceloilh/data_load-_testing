@@ -116,3 +116,8 @@ Este projeto fornece os dados necessários para as seguintes análises estratég
   - Vendas por Modelo de Veículo
   - Vendas por Vendedor
   - Vendas ao Longo do Tempo (Temporal)
+<br>
+
+## Análises Geradas -> Vendas por Concessionária
+
+![Vendas por Concessionária do Looker Studio](./imagens/dash.png)
